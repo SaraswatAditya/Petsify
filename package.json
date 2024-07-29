@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "proxy":"http://pets-v2.dev-apis.com",
+  "proxy":"https://pets-v2.dev-apis.com",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
